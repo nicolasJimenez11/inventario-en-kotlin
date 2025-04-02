@@ -67,5 +67,43 @@ Eliminar productos y verificar la integridad de la lista restante.
 
 Los resultados obtenidos demuestran que el sistema cumple con los objetivos planteados y brinda una solución eficiente para la gestión de inventarios.
 
+pantallasos de ejecucion
+
+1. MENU
+   
+![image](https://github.com/user-attachments/assets/5cd2350a-71ea-4d50-87ce-0de90671459b)
+
+2.AGREGAR PRODUCTO
+
+![image](https://github.com/user-attachments/assets/a5b8278f-31cd-43b1-a0d9-b2a64eca5f74)
+
+3.CONSULTAR PRODUCTO
+
+![image](https://github.com/user-attachments/assets/47ea4110-401f-4137-96d9-165a5f1dfa2e)
+
+en el caso de que este vacia el resultado mostrado en el terminal es
+
+![image](https://github.com/user-attachments/assets/8ab5fbb6-c497-41d1-a5f1-6047c3473c5c)
+
+
+4.ELIMINAR PRODUCTO
+
+![image](https://github.com/user-attachments/assets/41476aff-03c7-4ccb-9942-25d036c61c09)
+
+5. CALCULAR PRECIO TOTAL INVENTARIO
+
+![image](https://github.com/user-attachments/assets/1638bb84-9eed-49db-adff-31b280c7f13f)
+
+6.CALCULAR IVA DEL INVENTARIO
+
+![image](https://github.com/user-attachments/assets/1acd4b53-4308-4ce9-9e7a-a1acd959f3f0)
+
+7. SALIR DEL SISTEMA
+
+![image](https://github.com/user-attachments/assets/af1e6210-77f7-4e2f-bcdd-3fb50bf9af5a)
+
+
+
+
 
 

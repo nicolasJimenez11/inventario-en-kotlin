@@ -67,8 +67,5 @@ Eliminar productos y verificar la integridad de la lista restante.
 
 Los resultados obtenidos demuestran que el sistema cumple con los objetivos planteados y brinda una solución eficiente para la gestión de inventarios.
 
-5. Conclusiones
-El desarrollo de este sistema permitió aplicar conceptos clave de POO en Kotlin, como encapsulamiento y manipulación de objetos en listas. Se logró un programa funcional y fácil de usar que puede ser mejorado con futuras ampliaciones, como la persistencia de datos en una base de datos o una interfaz gráfica.
 
-Este tipo de proyectos es fundamental para afianzar conocimientos en programación y en el desarrollo de aplicaciones que resuelvan problemas reales en el ámbito empresarial.
 
